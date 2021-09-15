@@ -16,7 +16,7 @@ namespace SumOfDigits
             }
             Console.WriteLine("Sum of the digits you entered is: " + sum);
             Console.WriteLine("Thank you");
-
+            Console.WriteLine("This was added remotely in GitHub");
         }
     }
 }
